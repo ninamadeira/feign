@@ -1,4 +1,4 @@
-LISTA DE PETS
+LISTA DE PET FRIEND
 gato
 cachorro
 galinha
