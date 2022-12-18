@@ -1,2 +1,4 @@
 LISTA DE PETS
 gato
+cachorro
+galinha
